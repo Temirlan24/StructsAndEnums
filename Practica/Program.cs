@@ -5,7 +5,7 @@ namespace Practica
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             var employee = new Employee
             {
                 Name = "Sanzhar",
